@@ -1,4 +1,7 @@
 # DevReler
+
+Check out our [DevReler](https://twitter.com/i/communities/1523681883384549376) on twitter for more.
+
 * This repository is complete Open-Source.
 * Goal is to create Developer Relations awareness, DevRel Openings, and share the free resources.
 * Anyone wants to contribute, Feel free to submit Pull requests.
