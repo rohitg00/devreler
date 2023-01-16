@@ -22,6 +22,7 @@ Please read [`contributing guidelines`](https://github.com/rohitg00/devreler/blo
 # Developer Relations Openings
 Job Role | Company Name | Link 
 ------ | ------- | --------------
+DevRel Careers | Draft.dev | https://devrelcareers.com/
 Developer Relations | Syndica | https://boards.greenhouse.io/syndica/jobs/4289009004
 Developer Advocate | Flightcontrol | https://devrelcareers.com/job/785299-developer-advocate-at-calm-ambitious-devtools-startup-flightcontrol
 Developer Advocate | ngrok | https://devrelcareers.com/job/801216-developer-advocate-ngrok
