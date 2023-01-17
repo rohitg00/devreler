@@ -1,4 +1,4 @@
-# DevReler
+# DevReler - Your DevRel Friend
 <img src="avocado.png" align ="left" />
 
 * Check out our [DevReler](https://twitter.com/i/communities/1523681883384549376) on twitter for more.
