@@ -15,8 +15,7 @@ Enjoy!
 
 * If you want to contribute, This repository is in build. Feel free to do.
 * Help needed for Alignment of Resources, and Readme.md creation with proper contributing guidelines.
-
-If you like this repo, be sure to ⭐ it.
+* If you like this repo, be sure to ⭐ it.
 
 Please read [`contributing guidelines`](https://github.com/rohitg00/devreler/blob/main/contributing.md) before submitting new Resources.
 
