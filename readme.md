@@ -68,3 +68,4 @@ Community Manager | Planetscale | https://devrelcareers.com/job/801180-community
 Developer Relations | Circle | https://devrelcareers.com/job/801132-developer-relations-and-ecosystem-manager-circle								
 Developer Advocate | WorkOS | https://devrelcareers.com/job/797036-developer-advocate-workos								
 Developer Evangelist | Semaphore | https://nodesk.co/remote-jobs/semaphore-developer-evangelist/								
+Developer Evangelist and Technical Content Writer | Zenduty | https://angel.co/company/zenduty/jobs/2431997-developer-evangelist-and-technical-content-writer
