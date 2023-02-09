@@ -69,3 +69,4 @@ Developer Relations | Circle | https://devrelcareers.com/job/801132-developer-re
 Developer Advocate | WorkOS | https://devrelcareers.com/job/797036-developer-advocate-workos								
 Developer Evangelist | Semaphore | https://nodesk.co/remote-jobs/semaphore-developer-evangelist/								
 Developer Evangelist and Technical Content Writer | Zenduty | https://angel.co/company/zenduty/jobs/2431997-developer-evangelist-and-technical-content-writer
+Developer Relations Engineer | QuestDB | https://questdb.io/careers/developer-relations-engineer/
